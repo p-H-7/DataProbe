@@ -1,0 +1,10 @@
+langchain_openai
+langchain
+langgraph
+pandas
+plotly
+ipykernel
+nbformat
+statsmodels
+matplotlib
+fpdf
